@@ -1,0 +1,32 @@
+.milestones-main{
+    background-color: #F6F8FB;
+    margin-top: -25px;
+}
+
+.milestones-head{
+    padding-top: 70px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+#mileHead{
+    color: #F4933C;
+}
+
+.milestones-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#pno{
+    font-size: 30px;
+}
+
+#milestones1,#line1,#milestones2,#line2,#milestones3{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}

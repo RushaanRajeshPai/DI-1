@@ -1,0 +1,32 @@
+.action-main{
+    background-color: #F6F8FB;
+    margin-top: -25px;
+}
+
+.action-head{
+    display: block;
+    text-align: center;
+    padding-top: 110px;
+}
+
+.action-input{
+    width: 600px;
+    margin-left: 450px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    justify-content: space-evenly;
+}
+
+#sub-btn{
+    height: 45px;
+    width: 200px;
+    background-color: #F4933C;
+    color: white;
+    border: 1px solid white;
+    margin-left: 280px;
+}
+
+#ip{
+    border: 1px solid white;
+}

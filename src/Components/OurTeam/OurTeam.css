@@ -1,0 +1,43 @@
+.ourteam-main{
+    background-color: #F6F8FB;
+    margin-top: -25px;
+}
+
+.ourteam-head{
+    display: block;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.people{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#top{
+    height: 200px;
+    width: 350px;
+    background-color: #D8D8D8;
+}
+
+#bottom{
+    display: block;
+    text-align: center;
+    background-color: white;
+    margin-top: -25px;
+    padding-top: 5px;
+    height: 120px;
+}
+
+#top2{
+    height: 200px;
+    width: 350px;
+    background-color: #F4933C;
+}
+
+#arrows{
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+}
